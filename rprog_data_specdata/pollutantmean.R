@@ -15,4 +15,4 @@ pollutantmean <- function(directory, pollutant, id = 1:332) {
 }
 
 # Example usage
-pollutantmean(directory = '~/Desktop/specdata', pollutant = 'sulfate', id = 20)
+pollutantmean(directory = 'C:/Users/Maga/Desktop/datasciencecoursera/rprog_data_specdata/specdata', pollutant = 'nitrate')
